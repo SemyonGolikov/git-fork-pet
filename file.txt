@@ -1,3 +1,6 @@
 git branch
 
 this is a project to lerning of branche's work
+
+git branch sng/firsr_pr
+
